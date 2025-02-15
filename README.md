@@ -1,4 +1,4 @@
-# SuBiTO: Stream-Based Training Optimization for Neural Networks
+# SuBiTO: Synopsis-Based Training Optimization for Neural Networks
 
 SuBiTO is an intelligent framework designed to optimize the trade-offs between training time and accuracy in real-time machine learning applications over Big Streaming Data. It tackles the challenges faced by Neural Networks (NNs) deployed in high-speed, high-volume environments by continuously adjusting model parameters to ensure efficiency with minimal downtime.
 
