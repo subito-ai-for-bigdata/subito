@@ -49,8 +49,7 @@ pip install -r requirements.txt
 ## Publication
 
 **SuBiTO: Synopsis-based Training Optimization for Continuous Real-Time Neural Learning over Big Streaming Data**
-Errikos Streviniotis, George Klioumis, Nikos Giatrakos
-*In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)*, Philadelphia, Pennsylvania, USA, March 2025.
+Errikos Streviniotis, George Klioumis, Nikos Giatrakos. *In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)*, Philadelphia, Pennsylvania, USA, March 2025.
 
 If you use this work, please cite it as follows:
 
