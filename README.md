@@ -24,7 +24,7 @@ The SuBiTO dashboard, developed with Streamlit 2024, provides an intuitive inter
 In this scenario, SuBiTO is used to classify images from an NSFW (Not Safe For Work) dataset. The dataset is divided into 5 categories. SuBiTO optimizes the training of a neural network to classify these images based on the features of the visual content. By dynamically adjusting the model’s parameters in real-time, SuBiTO ensures high classification accuracy while maintaining minimal downtime and efficient training.
 
 - **UCF10 Video Classification Dataset:**
-The UCF10 dataset, a subset of the UCF100 video dataset, consists of 10 distinct video action classes. In this use case, SuBiTO can optimize the training of a neural network model for video classification. It adjusts parameters to capture the spatio-temporal features of the videos, improving both model performance and training time.
+The UCF10 dataset, a subset of the UCF50 video dataset, consists of 10 distinct video action classes. In this use case, SuBiTO can optimize the training of a neural network model for video classification. It adjusts parameters to capture the spatio-temporal features of the videos, improving both model performance and training time.
 
 **SuBiTO's adaptability and optimization techniques make it an excellent choice for real-time machine learning applications in both image and video domains.**
 
