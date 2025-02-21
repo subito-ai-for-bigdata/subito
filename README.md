@@ -1,6 +1,6 @@
 # SuBiTO: Synopsis-Based Training Optimization for Neural Networks
 
-SuBiTO is an intelligent framework designed to optimize the trade-offs between training time and accuracy in real-time machine learning applications over Big Streaming Data. It tackles the challenges faced by Neural Networks (NNs) deployed in high-speed, high-volume environments by continuously adjusting model parameters to ensure efficiency with minimal downtime.
+[SuBiTO](https://subito-ai-for-bigdata.github.io/) is an intelligent framework designed to optimize the trade-offs between training time and accuracy in real-time machine learning applications over Big Streaming Data. It tackles the challenges faced by Neural Networks (NNs) deployed in high-speed, high-volume environments by continuously adjusting model parameters to ensure efficiency with minimal downtime.
 
 ## Features:
 - **Automated Parameter Tuning**: Dynamically adjusts the number, size, and type of NN layers based on incoming data streams.
@@ -39,9 +39,9 @@ pip install -r requirements.txt
 2. Run Kafka
 3. Stream data to kafka: python stream_data.py
 4. Colab set new ngrok ports
-5. Add config.json file to colab
-6. Start Prediction pipeline: python prediction_pipeline.py
-7. Start Production pipeline: python production_pipeline.py
+5. Start Prediction pipeline: python prediction_pipeline.py
+6. Start Production pipeline: python production_pipeline.py
+7. Start SuBiTO Optimizer through the .ipynb notebook
 8. Start Streamlit app: stremlit run streamlit_app.py
 
 ## Contributing:
