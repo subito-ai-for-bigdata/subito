@@ -17,7 +17,7 @@ The SuBiTO dashboard, developed with Streamlit 2024, provides an intuitive inter
 ## Usage:
 - **Real-time Data Streams**: Deploy SuBiTO in applications requiring fast predictions from rapidly arriving data.
 - **Dynamic Neural Network Architectures**: Let SuBiTO optimize NN configurations to achieve both high accuracy and low latency.
-- **Optimization with Bayesian Techniques**: Leverage the power of Bayesian optimization to find the best set of parameters with minimal computational overhead.
+- **Optimization with Bayesian Techniques**: Leverage the power of Bayesian Optimization to find the best set of parameters with minimal computational overhead.
 
 ## Scenarios:
 - **NSFW Image Classification Dataset:**
