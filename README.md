@@ -34,6 +34,15 @@ git clone https://github.com/your-username/SuBiTO.git
 cd SuBiTO
 pip install -r requirements.txt
 ```
+## Execution:
+1. Start Ngrok: ngrok start --all
+2. Run Kafka
+3. Stream data to kafka: python stream_data.py
+4. Colab set new ngrok ports
+5. Add config.json file to colab
+6. Start Prediction pipeline: python prediction_pipeline.py
+7. Start Production pipeline: python production_pipeline.py
+8. Start Streamlit app: stremlit run streamlit_app.py
 
 ## Contributing:
 Feel free to open issues, suggest improvements, or submit pull requests. Contributions are always welcome!
