@@ -46,6 +46,25 @@ pip install -r requirements.txt
    
 > Each pipeline (Prediction, Production, SuBiTO Optimizer) can and should be executed on different machines.
 
+## Publication
+
+**SuBiTO: Synopsis-based Training Optimization for Continuous Real-Time Neural Learning over Big Streaming Data**
+Errikos Streviniotis, George Klioumis, Nikos Giatrakos
+*In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)*, Philadelphia, Pennsylvania, USA, March 2025.
+
+If you use this work, please cite it as follows:
+
+```bibtex
+@inproceedings{SuBiTO,
+  author    = {Errikos Streviniotis and George Klioumis and Nikos Giatrakos},
+  title     = {SuBiTO: Synopsis-based Training Optimization for Continuous Real-Time Neural Learning over Big Streaming Data (Demo Paper)},
+  booktitle = {Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)},
+  year      = {2025},
+  address   = {Philadelphia, Pennsylvania, USA},
+  month     = {March},
+}
+```
+
 ## Contributing:
 Feel free to open issues, suggest improvements, or submit pull requests. Contributions are always welcome!
 > More info, videos and presentations can be found on the official website of [SuBiTO](https://subito-ai-for-bigdata.github.io/).
