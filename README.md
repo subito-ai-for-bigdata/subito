@@ -43,6 +43,8 @@ pip install -r requirements.txt
 6. Start Production pipeline: python production_pipeline.py
 7. Start SuBiTO Optimizer through the .ipynb notebook
 8. Start Streamlit app: stremlit run streamlit_app.py
+   
+> Each pipeline (Prediction, Production, SuBiTO Optimizer) can and should be executed on different machines.
 
 ## Contributing:
 Feel free to open issues, suggest improvements, or submit pull requests. Contributions are always welcome!
