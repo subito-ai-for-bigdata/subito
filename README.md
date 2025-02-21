@@ -6,7 +6,7 @@ SuBiTO is an intelligent framework designed to optimize the trade-offs between t
 - **Automated Parameter Tuning**: Dynamically adjusts the number, size, and type of NN layers based on incoming data streams.
 - **Stream Synopses**: Optimizes the size of ingested data via specific stream synopsis parameters to ensure faster processing and reduce unnecessary computation.
 - **Epoch Optimization**: Fine-tunes the number of training epochs to achieve the best balance between training time and accuracy.
-- **Bayesian Optimization**: The optimization process is powered by Bayesian optimization using Gaussian Process Regression (GPR) models and acquisition functions, enabling efficient exploration and exploitation of the parameter space for optimal configurations.
+- **Bayesian Optimization**: The optimization process is powered by Bayesian Optimization using Gaussian Process Regression (GPR) models and acquisition functions, enabling efficient exploration vs exploitation of the parameter space for optimal configurations.
 - **Real-Time Adaptation**: Continuously learns and adapts as new data arrives, suggesting optimal parameter sets for deployment.
 
 SuBiTO is designed to help machine learning systems achieve high accuracy while optimizing speed, with minimal downtime, maintaining a balance between training efficiency and model performance. 
